@@ -20,6 +20,14 @@
   "workbench.colorTheme": "Visual Studio Dark",
   "workbench.fontAliasing": "antialiased",
   "workbench.statusBar.visible": true,
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    ".mule": true
+  },
   // "files.exclude": {
   //   "**/.git": false
   // }
